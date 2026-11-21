@@ -1,6 +1,6 @@
 # Analyzing Website Data Collection Efficiency and Network Behavior Using Multiple Web Scraping Techniques
 
-**Team:** Jana Alamir, Rim Zoghbi
+**Team:** Jana Alamir 202211798, Rim Zoghbi 202210749
 **Data:** English Premier League 2023-2024 (20 teams, 380 matches) from [TheSportsDB](https://www.thesportsdb.com)
 
 We collect the same 380 matches with three methods (API, BeautifulSoup, Selenium), compare their performance
